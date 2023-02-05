@@ -98,6 +98,7 @@ label{
    padding: 2rem;
    box-shadow: 0 0 40px rgba(0, 0, 0.2);
    border-radius: var(--border-radius);
-   background-image:  url(/images/bg1.jpg);
+   /*background-image:  url(/images/bg5.jpeg);*/
+   background: whitesmoke;
 }
 
